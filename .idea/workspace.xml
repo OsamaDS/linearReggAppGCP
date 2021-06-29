@@ -3,18 +3,12 @@
   <component name="ChangeListManager">
     <list default="true" id="5bc3ff8e-e570-4143-94fc-4e29b0d3cb00" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Python Script" />
-      </list>
-    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,9 +50,13 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="391" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1624996982469">
+    <state x="463" y="122" key="FileChooserDialogImpl" timestamp="1624926443533">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="391" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1624996982469" />
+    <state x="463" y="122" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1624926443533" />
+    <state x="391" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1624926381115">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1624926381115" />
   </component>
 </project>
